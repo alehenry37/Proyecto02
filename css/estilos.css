@@ -1,0 +1,31 @@
+.card{
+  margin-top: 20px !important;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #4B2473 !important;
+  border-color: #4B2473 !important;
+}
+a {
+  color: #d49f2c;
+  text-decoration: underline;
+}
+.py-5 {
+background: #F2B749;
+}
+h3{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #000000;
+}
+.encabezado{
+  background-color: #9FD19C;
+}
+.btn-warning {
+  color: #000;
+  background-color: rgb(255, 239, 148) !important;
+  border-color: rgb(255, 239, 148) !important;
+}
+.row{
+  margin-top: 20px;
+}
+
